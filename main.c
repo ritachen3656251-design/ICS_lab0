@@ -14,3 +14,5 @@ int main()
     printf("新的数字是：%d", num);
     return 0;
 }
+
+
